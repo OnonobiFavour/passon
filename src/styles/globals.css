@@ -2,8 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-.bg-image {
-    background-image: url('/public/Asset/Image/home.svg');
+.image {
+    background-image: url('/public/Asset/Image/home.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
